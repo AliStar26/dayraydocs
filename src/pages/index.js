@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro_">
-          Dayray Tutorial - infinity min ⏱️
+          Lapka Documentation ⏱️
           </Link>
         </div>
       </div>

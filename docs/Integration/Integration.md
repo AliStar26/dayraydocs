@@ -15,6 +15,6 @@ sidebar_position: 3
 
 
 
-1. Dayray-backend    - основной ASP NET CORE project, выполняющий интеграцию, содержит контроллеры API.
+1. Lapka-backend    - основной ASP NET CORE project, выполняющий интеграцию, содержит контроллеры API.
 2. DTO(Data Transfer Object) - определяет данные для передачи, а также содержит репозитории.
 3. Service - содержит в себе интерфейсы и их реализацию. 

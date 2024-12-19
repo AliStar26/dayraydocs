@@ -1,7 +1,7 @@
 # Код
 
 
-## Dayray Code
+## Lapka Code
 
 | Namespaces | |
 | :--- | 
